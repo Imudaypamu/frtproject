@@ -52,4 +52,4 @@ We are BTech pursuing Students,from both 4th and #rd year we consider this as pr
 
 # Privacy Policies 
 
-That Will Found in in repo
+https://www.freeprivacypolicy.com/live/a6b55d2e-c44e-4be6-9df2-b0f291e811db
