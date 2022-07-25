@@ -3,6 +3,9 @@
 
 
 AZURE LINK : https://agreeable-mud-0b1eb1410.1.azurestaticapps.net
+
+
+
 MyPdfAddA is our project that is done as the solution for searching of pdfs of our subjects 
 as our solution we made a webpage that where we kept all our pdfs and their cloud links in our site which is used to help and download the pdf file that required
 
