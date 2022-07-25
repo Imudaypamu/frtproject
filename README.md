@@ -5,33 +5,33 @@ as our solution we made a webpage that where we kept all our pdfs and their clou
 
 
 # Features
--Good UI
+-  Good UI
 
--Separate pages according to our semesters
+-  Separate pages according to our semesters
 
--Every Pdf Will load from drive for instant view or for download
+-  Every Pdf Will load from drive for instant view or for download
 
--Easy To Navigate
+-  Easy To Navigate
 
--User Friendly
+-  User Friendly
 
--It Contains a helping Chat(twiko)
+-  It Contains a helping Chat(twiko)
 
 
 
 # Languages or Technologies
 
--Html
+-  Html
 
--Css
+-  Css
 
--Js
+-  Js
 
 
 # Compatibility
- -It Contains Great UI for Both Mobile and Desktop
+ -  It Contains Great UI for Both Mobile and Desktop
  
- -Easy to Navigate in Both Mobile and Deaktop
+ -  Easy to Navigate in Both Mobile and Deaktop
  
 # Screenshots
 ![Screenshot 2022-07-25 at 6 55 32 PM](https://user-images.githubusercontent.com/69979237/180792693-3d3ff0b4-7f03-436a-9b22-b0098d082c4a.jpg)
@@ -41,13 +41,13 @@ as our solution we made a webpage that where we kept all our pdfs and their clou
 # About Us
 We are BTech pursuing Students,from both 4th and #rd year we consider this as problem as we facing the same situtaion regularly.our team
 
--Uday Kiran Pamu(Lead)
+-  Uday Kiran Pamu(Lead)
 
--G Mallika
+-  G Mallika
 
--N Srilatha
+-  N Srilatha
 
--M Poojitha
+-  M Poojitha
 
 
 # Privacy Policies 
