@@ -31,7 +31,7 @@ as our solution we made a webpage that where we kept all our pdfs and their clou
 # Compatibility
  -It Contains Great UI for Both Mobile and Desktop
  
- -Is to Navigate in Both Mobile and Deaktop
+ -Easy to Navigate in Both Mobile and Deaktop
  
 # Screenshots
 
