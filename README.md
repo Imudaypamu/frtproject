@@ -34,6 +34,9 @@ as our solution we made a webpage that where we kept all our pdfs and their clou
  -Easy to Navigate in Both Mobile and Deaktop
  
 # Screenshots
+![Screenshot 2022-07-25 at 6 55 32 PM](https://user-images.githubusercontent.com/69979237/180792693-3d3ff0b4-7f03-436a-9b22-b0098d082c4a.jpg)
+
+![WhatsApp Image 2022-07-25 at 7 04 29 PM](https://user-images.githubusercontent.com/69979237/180792971-ef75a3bc-113e-4923-9787-a69ea26089bc.jpeg)
 
 # About Us
 We are BTech pursuing Students,from both 4th and #rd year we consider this as problem as we facing the same situtaion regularly.our team
